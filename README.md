@@ -31,4 +31,3 @@ Paperlist:
 
 
 2.Square Attack: a query-efficient black-box adversarial attack via random search(Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion, and Matthias Hein, ECCV 2020)
-
